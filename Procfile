@@ -1,1 +1,1 @@
-web: gunicorn taskapi.wsgi --log-file -
+web: bash start.sh
